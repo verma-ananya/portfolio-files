@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Phone'
-icon: 'phone'
-content: '+91-9340019853'
+title: 'Website'
+icon: 'globe'
+content: 'verma-ananya.github.io'
 ---
